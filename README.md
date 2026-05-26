@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Reginaldo 👋</h1>
+<h1 align="center">Ola, eu sou o Reginaldo 👋</h1>
 
 <p align="center">
   <b>AI Engineer · Senior Data Engineer & Architect</b><br/>
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Trabalho com dados há mais de **13 anos**. Comecei passando cabo em escola municipal, virei DBA SQL Server, atravessei a era do BI on-premises, fui parar em cloud, Lakehouse, Databricks, e hoje atuo como **AI Engineer** construindo agentes de IA em produção.
+Trabalho com dados há mais de **13 anos**. Comecei passando cabo de rede em escola municipal, virei DBA SQL Server, atravessei a era do BI on-premises, fui parar em cloud, Lakehouse, Databricks, e hoje atuo como **AI Engineer** construindo agentes de IA em produção.
 
 Acredito que:
 
@@ -35,7 +35,7 @@ Não acredito em "melhor cloud" nem em "melhor linguagem". Acredito em escolher 
 
 ## 🛠️ O que estou construindo agora
 
-Atuo no [**Belake.ai**](https://www.belake.ai/) (AI Lab da [Dataside](https://dataside.com.br/)) — uma plataforma de agentes de IA com **Text2SQL nativo** para Databricks, Snowflake, Redshift, BigQuery, SQL Server, PostgreSQL, Fabric e Synapse, com integrações nativas via MCP e orquestração com LangGraph.
+Atuo no [**Belake.ai**](https://www.belake.ai/) ([Dataside](https://dataside.com.br/)) - uma plataforma de agentes de IA com **Text2SQL nativo** para Databricks, Snowflake, Redshift, BigQuery, SQL Server, PostgreSQL, Fabric e Synapse, com integrações nativas via MCP e orquestração com LangGraph.
 
 No dia-a-dia:
 
@@ -137,7 +137,6 @@ No dia-a-dia:
 - 🏗️ [**databricks_0_100**](https://github.com/reginaldosilva27/databricks_0_100) — Scripts e infra (HCL/Terraform) para subir ambiente Databricks do zero.
 - 🤖 [**crewai**](https://github.com/reginaldosilva27/crewai) — Códigos e experimentos com CrewAI.
 - ⛽ [**Gas-Station-Case**](https://github.com/reginaldosilva27/Gas-Station-Case) — Case de plataforma de dados simulando uma rede de postos de combustíveis.
-- 🔄 [**SQLCDC2EventHub**](https://github.com/reginaldosilva27/SQLCDC2EventHub) — SQL Server CDC streaming para Azure Event Hub.
 
 > Vou abrindo aos poucos alguns projetos pessoais de AI Engineering (agentes, RAG, Text2SQL) aqui mesmo.
 
@@ -168,7 +167,7 @@ No dia-a-dia:
 
 Estou sempre aberto a trocar ideia sobre **AI Engineering**, **agentes em produção**, **arquitetura de dados**, **Databricks** e **como tirar projeto de IA do piloto**.
 
-A melhor forma de me alcançar é pelo **LinkedIn** — me chama no DM ou comenta nos posts. 🚀
+A melhor forma de me alcançar é pelo **LinkedIn**, me chama no DM ou comenta nos posts. 🚀
 
 ---
 
