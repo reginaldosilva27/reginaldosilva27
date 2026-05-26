@@ -132,6 +132,8 @@ No dia-a-dia:
 
 ## 📦 Projetos em destaque
 
+
+- 🧪 [**Agent Simulator**](https://github.com/reginaldosilva27/AgentSimulator) — Aprenda como agentes de IA funcionam internamente.
 - 🧪 [**dtstools**](https://github.com/reginaldosilva27/dtstools) — Utilitários para facilitar o trabalho com Delta Lake (Python).
 - 📓 [**Databricks**](https://github.com/reginaldosilva27/Databricks) — Notebooks e dicas sobre Databricks, PySpark e Delta.
 - 🏗️ [**databricks_0_100**](https://github.com/reginaldosilva27/databricks_0_100) — Scripts e infra (HCL/Terraform) para subir ambiente Databricks do zero.
@@ -151,14 +153,12 @@ No dia-a-dia:
 ---
 
 ## 📊 GitHub em números
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reginaldosilva27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldosilva27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reginaldosilva27&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=reginaldosilva27&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
