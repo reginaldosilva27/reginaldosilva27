@@ -25,7 +25,7 @@
 
 Trabalho com dados há mais de **13 anos**. Comecei passando cabo de rede em escola municipal, virei DBA SQL Server, atravessei a era do BI on-premises, fui parar em cloud, Lakehouse, Databricks, e hoje atuo como **AI Engineer** construindo agentes de IA em produção.
 
-Além do trabalho técnico, sou ativo na comunidade brasileira de dados: **co-Chapter Leader do SQL Vale**, palestrante no Microsoft AI Tour, SQL Saturday, Data&AI e Azure Bootcamp, e autor do blog [datainaction.dev](https://www.datainaction.dev/).
+Além do trabalho técnico, sou ativo na comunidade brasileira de dados: palestrei em diversos eventos no Brasil como no Microsoft AI Tour, SQL Saturday, Data&AI e Azure Bootcamp, e autor do blog [datainaction.dev](https://www.datainaction.dev/).
 
 Acredito que:
 
