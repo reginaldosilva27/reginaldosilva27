@@ -1,4 +1,6 @@
-<h1 align="center">Ola, eu sou o Reginaldo 👋</h1>
+🌐 [English](README.en.md) · **Português**
+
+<h1 align="center">Olá, eu sou o Reginaldo 👋</h1>
 
 <p align="center">
   <b>AI Engineer · Senior Data Engineer & Architect</b><br/>
@@ -23,6 +25,8 @@
 
 Trabalho com dados há mais de **13 anos**. Comecei passando cabo de rede em escola municipal, virei DBA SQL Server, atravessei a era do BI on-premises, fui parar em cloud, Lakehouse, Databricks, e hoje atuo como **AI Engineer** construindo agentes de IA em produção.
 
+Além do trabalho técnico, sou ativo na comunidade brasileira de dados: **co-Chapter Leader do SQL Vale**, palestrante no Microsoft AI Tour, SQL Saturday, Data&AI e Azure Bootcamp, e autor do blog [datainaction.dev](https://www.datainaction.dev/).
+
 Acredito que:
 
 - **IA boa nasce de dados bem arquitetados** — sem fundação, agente não escala.
@@ -35,18 +39,25 @@ Não acredito em "melhor cloud" nem em "melhor linguagem". Acredito em escolher 
 
 ## 🛠️ O que estou construindo agora
 
-Atuo no [**Belake.ai**](https://www.belake.ai/) ([Dataside](https://dataside.com.br/)) - uma plataforma de agentes de IA com **Text2SQL nativo** para Databricks, Snowflake, Redshift, BigQuery, SQL Server, PostgreSQL, Fabric e Synapse, com integrações nativas via MCP e orquestração com LangGraph.
+Atuo no [**Belake.ai**](https://www.belake.ai/) ([Dataside](https://dataside.com.br/)) — uma plataforma de agentes de IA com **Text2SQL nativo** para Databricks, Snowflake, Redshift, BigQuery, SQL Server, PostgreSQL, Fabric e Synapse, com integrações nativas via MCP e orquestração com LangGraph.
 
-No dia-a-dia:
+No dia a dia:
 
 - 🧠 Engenharia de agentes de IA end-to-end (arquitetura, orquestração, deploy, observabilidade)
 - ⚙️ Backend em **TypeScript/Node**, frontend em **React + Vite**, camada de IA em **Python**
 - 🧪 **TDD** e **SDD** como base do ciclo de desenvolvimento com IA
 - 🤖 Coding com **Claude Code**, **Cursor** e **Codex** no fluxo diário
 
+**Atualmente explorando:** padrões avançados de orquestração multi-agente, evals para sistemas agênticos em produção e arquitetura hexagonal aplicada a workflows de IA.
+
 ---
 
-## 📚 Carreira em uma linha do tempo
+## 📚 Carreira
+
+<details>
+<summary><b>Linha do tempo completa</b> (clique para expandir)</summary>
+
+<br/>
 
 | Período | Cargo | Empresa |
 |---|---|---|
@@ -58,6 +69,8 @@ No dia-a-dia:
 | 2014 — 2016 | SQL Server Database Administrator | Grupo Petrópolis |
 | 2012 — 2014 | Senior Systems Support Analyst | Grupo Petrópolis |
 | 2011 — 2012 | Estagiário de Infra & Redes | Prefeitura Municipal de Iperó |
+
+</details>
 
 > Histórico completo, com clientes atendidos e cases, no [LinkedIn](https://www.linkedin.com/in/reginaldosilva27/).
 
@@ -100,15 +113,11 @@ No dia-a-dia:
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
 </p>
 
-**Cloud**
+**Cloud & Databases**
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-</p>
-
-**Databases**
-<p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -118,7 +127,7 @@ No dia-a-dia:
   <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" />
 </p>
 
-**Dev tools**
+**Dev Tools**
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" />
@@ -131,7 +140,6 @@ No dia-a-dia:
 ---
 
 ## 📦 Projetos em destaque
-
 
 - 🧪 [**Agent Simulator**](https://github.com/reginaldosilva27/AgentSimulator) — Aprenda como agentes de IA funcionam internamente.
 - 🧪 [**dtstools**](https://github.com/reginaldosilva27/dtstools) — Utilitários para facilitar o trabalho com Delta Lake (Python).
@@ -147,16 +155,22 @@ No dia-a-dia:
 ## ✍️ Onde compartilho
 
 - 💼 **LinkedIn** — [linkedin.com/in/reginaldosilva27](https://www.linkedin.com/in/reginaldosilva27/) (7k+ seguidores, posts semanais sobre AI Engineering, dados e fundamentos)
-- 📝 **Blog: Data in Action** — [datainaction.dev](https://www.datainaction.dev/) (dados em geral)
-- 🎤 **Palestras** — SQL Saturday, Azure Bootcamp e eventos da comunidade brasileira de dados
+- 📝 **Blog: Data in Action** — [datainaction.dev](https://www.datainaction.dev/)
+- 🎤 **Palestras** — Microsoft AI Tour, SQL Saturday, Data&AI, Azure Bootcamp e eventos da comunidade brasileira de dados
 
 ---
 
 ## 📊 GitHub em números
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reginaldosilva27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldosilva27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reginaldosilva27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldosilva27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reginaldosilva27&theme=tokyonight" alt="Profile summary" />
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=reginaldosilva27&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
@@ -167,10 +181,10 @@ No dia-a-dia:
 
 Estou sempre aberto a trocar ideia sobre **AI Engineering**, **agentes em produção**, **arquitetura de dados**, **Databricks** e **como tirar projeto de IA do piloto**.
 
-A melhor forma de me alcançar é pelo **LinkedIn**, me chama no DM ou comenta nos posts. 🚀
+A melhor forma de me alcançar é pelo **LinkedIn** — me chama no DM ou comenta nos posts. 🚀
 
 ---
 
 <p align="center">
-  <i>"A IA sabe codar bem, mas ela precisa de alguém que sabe o que está fazendo."</i>
+  <i>"IA boa não é a que escreve código. É a que escreve código que sobrevive em produção — e isso ainda depende de quem entende o problema."</i>
 </p>
